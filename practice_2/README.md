@@ -1,2 +1,1 @@
-npm i__
-gulp watch
+run 'npm i' then 'gulp watch'
